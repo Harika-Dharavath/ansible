@@ -1,0 +1,9 @@
+<person>
+    <name>Harika</name>
+    <age>27</age>
+    <skills>
+        <skill>AWS</skill>
+        <skill>Linux</skill>
+        <skill>Ansible</skill>
+    </skills>
+</person>
